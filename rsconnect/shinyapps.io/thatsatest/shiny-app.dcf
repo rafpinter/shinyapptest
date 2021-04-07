@@ -1,0 +1,12 @@
+name: shiny-app
+title:
+username:
+account: thatsatest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3829404
+bundleId: 4384084
+url: https://thatsatest.shinyapps.io/shiny-app/
+when: 1616496369.33217
+asMultiple: FALSE
+asStatic: FALSE
