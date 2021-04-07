@@ -26,5 +26,3 @@ server <- function(input, output) {
     plot(rv$data)
   })
 }
-
-shinyApp(ui = ui, server = server)
