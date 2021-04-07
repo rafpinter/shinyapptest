@@ -1,5 +1,5 @@
 library(shiny)
-
+options(shiny.sanitize.errors = FALSE)
 
 ui <- fluidPage(
   HTML(

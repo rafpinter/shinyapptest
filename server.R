@@ -1,3 +1,4 @@
+options(shiny.sanitize.errors = FALSE)
 
 server <- function(input, output) {
   
