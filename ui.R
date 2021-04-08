@@ -3,7 +3,7 @@ options(shiny.sanitize.errors = FALSE)
 
 ui <- fluidPage(
   HTML(
-    '<h1>Carai que incrível</h1>'
+    '<h1>Teste</h1>'
     ),
   tags$hr(),
   sliderInput(inputId = "num",
